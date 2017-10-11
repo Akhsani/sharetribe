@@ -87,7 +87,7 @@ module MarketplaceService::AvailableCurrencies
                                    'AU', 'CA', 'HK', 'NZ']
 
   # Brazil, Czech Republic, Hungary, Israel, Italy, Japan, Mexico, Malaysia, Poland, Philippines, Portugal, Russia, Singapore, Taiwan, Thailand
-  COUNTRY_SET_PAYPAL_ONLY = ['BR', 'CZ', 'HU', 'IL', 'IT', 'JP', 'MX', 'MY', 'PL', 'PH', 'PT', 'RU', 'SG', 'TW', 'TH']
+  COUNTRY_SET_PAYPAL_ONLY = ['BR', 'CZ', 'HU', 'IL', 'IT', 'JP', 'MX', 'MY', 'PL', 'PH', 'PT', 'RU', 'SG', 'TW', 'TH', 'VN']
 
   VALID_CURRENCIES = {
     "AUD" => :country_sets,
